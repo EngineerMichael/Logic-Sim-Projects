@@ -1,2 +1,3 @@
 # Logic-Sim
-Computer Architecture
+Computer Architecture Simulation Projects
+Containing ALU, Micro-Controllers, 8 bit Registry & Variations of Logic Circuits
